@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "609403891144",
+    "project_id": "translateexample-415815",
+    "storage_bucket": "translateexample-415815.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609403891144:android:0cae90b6fbbe3dfa4b64fd",
+        "android_client_info": {
+          "package_name": "com.example.smartscreenreader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrBVKC61wuVBE5mBK5HHfu3XUGQFlWP08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

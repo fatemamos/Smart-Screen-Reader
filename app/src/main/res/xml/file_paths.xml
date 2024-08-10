@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<paths >
+    <external-files-path
+        name="SmartScreenReader"
+        path="." />
+    <external-path name="dcim" path="DCIM/"/>
+    <external-path name="my_images" path="DCIM/Projec/"/>
+</paths>
